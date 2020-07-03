@@ -1,0 +1,547 @@
+
+@media(min-width:1200px){
+  body{
+  }
+  #wrapper{
+    background-color: #666633;
+
+
+  }
+  #top-most{
+    color:white;
+    height:350px;
+
+
+  }
+  button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#top-most-heading{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color:white;
+    height:50px;
+}
+#top-most-instruct{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color: white;
+    height:300px;
+}
+
+#top{
+    height:250px;
+    background-color: #666699;
+  }
+#top1{
+
+    height:50px;
+  }
+#header{
+
+    height:100px;
+  }
+#top-middle{
+    height:100px;
+
+
+  }
+#top-middle1{
+    height:100px;
+    width:50%;
+    float:left;
+    color: #ffff99;
+    text-align:center;
+  }
+#top-middle2{
+    height:100px;
+    width:50%;
+    float:right;
+    color: #ffff99;
+    text-align:center;
+  }
+#target{
+    width:50%;
+    height:100px;
+    float:left;
+    color:white;
+    text-align:center;
+  }
+#your_score{
+    width:50%;
+    height:100px;
+    color:white;
+    float:right;
+    text-align:center;
+  }
+
+#game{
+    height:400px;
+    background-image:url("image/cricket.jpg");
+    background-position: center,top;
+  }
+#computer{
+    height:400px;
+    width:50%;
+    float:left;
+    /* background-color: brown; */
+    font-family: "Times New Roman", Times, serif;
+
+  }
+#user{
+    height:400px;
+    width:50%;
+    float:right;
+  /* background-color: brown; */
+  font-family: "Times New Roman", Times, serif;
+  }
+#user_output{
+    height:400px;
+    width:25%;
+    float:left;
+    padding-top:50px;
+    padding-left:20px
+    /* background-color:orange; */
+    font-family: "Times New Roman", Times, serif;
+  }
+#user_choice{
+    height:400px;
+    width:25%;
+    float:right;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_profile{
+    height:400px;
+    width:25%;
+    float:left;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_output{
+    height:400px;
+    width:25%;
+    float:right;
+    padding-top:50px;
+    padding-right:20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+#footer{
+    height:110px;
+    background:linear-gradient(#ff6699,#80002a);
+    text-align: center;
+  }
+
+
+
+}
+@media(min-width:992px) and (max-width:1199px){
+  body{
+  }
+  #wrapper{
+    background-color: #666633;
+
+
+  }
+  #top-most{
+    color:white;
+    height:350px;
+
+
+  }
+  button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#top-most-heading{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color:white;
+    height:50px;
+}
+#top-most-instruct{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color: white;
+    height:300px;
+}
+
+#top{
+    height:250px;
+    background-color: #666699;
+  }
+#top1{
+
+    height:50px;
+  }
+#header{
+
+    height:100px;
+  }
+#top-middle{
+    height:100px;
+
+
+  }
+#top-middle1{
+    height:100px;
+    width:50%;
+    float:left;
+    color: #ffff99;
+    text-align:center;
+  }
+#top-middle2{
+    height:100px;
+    width:50%;
+    float:right;
+    color: #ffff99;
+    text-align:center;
+  }
+#target{
+    width:50%;
+    height:100px;
+    float:left;
+    color:white;
+    text-align:center;
+  }
+#your_score{
+    width:50%;
+    height:100px;
+    color:white;
+    float:right;
+    text-align:center;
+  }
+
+#game{
+    height:400px;
+    background-image:url("image/cricket.jpg");
+    background-position: center,top;
+  }
+#computer{
+    height:400px;
+    width:50%;
+    float:left;
+    /* background-color: brown; */
+    font-family: "Times New Roman", Times, serif;
+
+  }
+#user{
+    height:400px;
+    width:50%;
+    float:right;
+  /* background-color: brown; */
+  font-family: "Times New Roman", Times, serif;
+  }
+#user_output{
+    height:400px;
+    width:25%;
+    float:left;
+    padding-top:50px;
+    padding-left:20px
+    /* background-color:orange; */
+    font-family: "Times New Roman", Times, serif;
+  }
+#user_choice{
+    height:400px;
+    width:25%;
+    float:right;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_profile{
+    height:400px;
+    width:25%;
+    float:left;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_output{
+    height:400px;
+    width:25%;
+    float:right;
+    padding-top:50px;
+    padding-right:20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+#footer{
+    height:110px;
+    background:linear-gradient(#ff6699,#80002a);
+    text-align: center;
+  }
+
+}
+@media(min-width:768px) and (max-width:991px){
+  body{
+  }
+  #wrapper{
+    background-color: #666633;
+
+
+  }
+  #top-most{
+    color:white;
+    height:350px;
+
+
+  }
+  button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#top-most-heading{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color:white;
+    height:50px;
+}
+#top-most-instruct{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color: white;
+    height:300px;
+}
+
+#top{
+    height:250px;
+    background-color: #666699;
+  }
+#top1{
+
+    height:50px;
+  }
+#header{
+
+    height:100px;
+  }
+#top-middle{
+    height:100px;
+
+
+  }
+#top-middle1{
+    height:100px;
+    width:50%;
+    float:left;
+    color: #ffff99;
+    text-align:center;
+  }
+#top-middle2{
+    height:100px;
+    width:50%;
+    float:right;
+    color: #ffff99;
+    text-align:center;
+  }
+#target{
+    width:50%;
+    height:100px;
+    float:left;
+    color:white;
+    text-align:center;
+  }
+#your_score{
+    width:50%;
+    height:100px;
+    color:white;
+    float:right;
+    text-align:center;
+  }
+
+#game{
+    height:400px;
+    background-image:url("image/cricket.jpg");
+    background-position: center,top;
+  }
+#computer{
+    height:400px;
+    width:50%;
+    float:left;
+    /* background-color: brown; */
+    font-family: "Times New Roman", Times, serif;
+
+  }
+#user{
+    height:400px;
+    width:50%;
+    float:right;
+  /* background-color: brown; */
+  font-family: "Times New Roman", Times, serif;
+  }
+#user_output{
+    height:400px;
+    width:25%;
+    float:left;
+    padding-top:50px;
+    padding-left:20px
+    /* background-color:orange; */
+    font-family: "Times New Roman", Times, serif;
+  }
+#user_choice{
+    height:400px;
+    width:25%;
+    float:right;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_profile{
+    height:400px;
+    width:25%;
+    float:left;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_output{
+    height:400px;
+    width:25%;
+    float:right;
+    padding-top:50px;
+    padding-right:20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+#footer{
+    height:110px;
+    background:linear-gradient(#ff6699,#80002a);
+    text-align: center;
+  }
+}
+@media(max-width:767px){
+  body{
+  }
+  #wrapper{
+    background-color: #666633;
+
+
+  }
+  #top-most{
+    color:white;
+    height:450px;
+  }
+  button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#top-most-heading{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color:white;
+    height:100px;
+}
+#top-most-instruct{
+    background:linear-gradient(#0000cc, #ff00ff);
+    color: white;
+    height:350px;
+}
+
+#top{
+    height:250px;
+    background-color: #666699;
+  }
+#top1{
+
+    height:50px;
+  }
+#header{
+
+    height:100px;
+  }
+#top-middle{
+    height:100px;
+
+
+  }
+#top-middle1{
+    height:100px;
+    width:50%;
+    float:left;
+    color: #ffff99;
+    text-align:center;
+  }
+#top-middle2{
+    height:100px;
+    width:50%;
+    float:right;
+    color: #ffff99;
+    text-align:center;
+  }
+#target{
+    width:50%;
+    height:100px;
+    float:left;
+    color:white;
+    text-align:center;
+  }
+#your_score{
+    width:50%;
+    height:100px;
+    color:white;
+    float:right;
+    text-align:center;
+  }
+
+#game{
+    height:400px;
+    background-image:url("image/cricket.jpg");
+    background-position: center,top;
+  }
+#computer{
+    height:400px;
+    width:50%;
+    float:left;
+    /* background-color: brown; */
+    font-family: "Times New Roman", Times, serif;
+
+  }
+#user{
+    height:400px;
+    width:50%;
+    float:right;
+  /* background-color: brown; */
+  font-family: "Times New Roman", Times, serif;
+  }
+#user_output{
+    height:400px;
+    width:25%;
+    float:left;
+    padding-top:50px;
+    padding-left:20px
+    /* background-color:orange; */
+    font-family: "Times New Roman", Times, serif;
+  }
+#user_choice{
+    height:400px;
+    width:25%;
+    float:right;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_profile{
+    height:400px;
+    width:25%;
+    float:left;
+  font-family: "Times New Roman", Times, serif;
+  }
+#computer_output{
+    height:400px;
+    width:25%;
+    float:right;
+    padding-top:50px;
+    padding-right:20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+#footer{
+    height:110px;
+    background:linear-gradient(#ff6699,#80002a);
+    text-align: center;
+  }
+}
