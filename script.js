@@ -72,7 +72,7 @@ function calculation(x,n)
   if(score>target){
     // var msg= "<p> You Win </p>";
     // document.getElementById("computer_profile").innerHTML = msg;
-    alert(name+" you Win please click on new game or reload page");
+    alert(name+" you Win please click on new game");
     target=0;
     score=0;
     var msg= "<h3> Your Target is :-" + target + "</h3>";
